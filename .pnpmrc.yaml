@@ -1,0 +1,5 @@
+run:
+  allowScriptsInDefaultRegistry: true
+# Skip build approval checks for native modules
+build:
+  allowBuildScripts: true
